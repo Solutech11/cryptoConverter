@@ -1,2 +1,2 @@
 # cryptoConverter
-try src folder nd run convertor.java
+try dist folder nd run currencyInterface.java
